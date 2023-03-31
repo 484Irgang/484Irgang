@@ -40,9 +40,20 @@
   <a href="https://code.visualstudio.com/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229148186-bb286e37-6755-40df-b448-db4206171e80.svg"/></a>
   <a href="https://www.sublimetext.com/3"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229151147-f0357e0d-bc2d-4905-b20f-fc311f798294.png"/></a>
   <a href="https://www.apachefriends.org/pt_br/download.html"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229151163-57129a1a-a241-4aec-bc18-0eeaadc956a4.png"/></a>
+  <a href="https://www.npmjs.com/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229241043-3807cf27-21da-4514-abb3-9b1ac4877d89.svg"/></a>
 </blockquote>
 
 
  <img src="https://user-images.githubusercontent.com/99806060/228827532-c68e82da-4312-4878-8298-d4dcdf8695f7.gif"/>
  
+ <h1><img width="64px" height="46px" src="https://user-images.githubusercontent.com/99806060/229237635-a4462d08-7030-4710-a6d1-ceb4febcbfec.gif"/><span> </span>Habilidades e estudo</h1>
+ <img height="200px" align="right" src="https://user-images.githubusercontent.com/99806060/229238556-a0fba3ce-1526-4383-bac8-19bc668dcd13.gif"/>
+ <ul>
+  <li><strong>Front-end</strong></li>
+  <li><strong>Back-end</strong></li>
+  <li><strong>Banco de dados</strong></li>
+  <li><strong>Desenvolvimento web</strong></li>
+  <li><strong>Design UI</strong></li>
+  <li><strong>Análise e desenvolvimento de sistemas</strong></li>
+ </ul>
  <a href=""><img width="64px" height="64px" src=""/></a>
