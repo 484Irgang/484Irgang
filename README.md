@@ -33,7 +33,13 @@
 <h3><img width="32px" height="32px" src="https://user-images.githubusercontent.com/99806060/228962333-42e29a15-fb2d-444a-b134-faadf889e382.png"/> Ferramentas de produção</h3>
 
 <blockquote>
-    
+  <a href="https://www.figma.com/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229147945-57425bda-bb38-4185-b873-a4df694ad941.png"/></a>
+  <a href="https://git-scm.com/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229147972-d23bc439-a7aa-4779-9175-8dd47a179b15.svg"/></a>
+  <a href="https://github.com/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229148015-f564595a-6e9f-481f-b6b3-3b8d4f815500.gif"/></a>
+  <a href="https://visualstudio.microsoft.com/pt-br/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229148115-c01dafde-e5bd-43a4-bcbe-d1e7dacea1f6.png"/></a>
+  <a href="https://code.visualstudio.com/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229148186-bb286e37-6755-40df-b448-db4206171e80.svg"/></a>
+  <a href="https://www.sublimetext.com/3"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229151147-f0357e0d-bc2d-4905-b20f-fc311f798294.png"/></a>
+  <a href="https://www.apachefriends.org/pt_br/download.html"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229151163-57129a1a-a241-4aec-bc18-0eeaadc956a4.png"/></a>
 </blockquote>
 
 
