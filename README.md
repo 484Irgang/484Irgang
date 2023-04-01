@@ -5,14 +5,14 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=484Irgang&theme=highcontrast&hide_progress=true&lans_count=10"/>
 </div>    
 
-<h1><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/228958261-14f75ab1-c6d4-45c9-b4ef-564806535dd9.png"/> Apresentação</h1>
+<h1><img width="32px" height="32px" src="https://user-images.githubusercontent.com/99806060/228958261-14f75ab1-c6d4-45c9-b4ef-564806535dd9.png"/> Apresentação</h1>
    <div>
       <img align="right" width="250px" src="https://user-images.githubusercontent.com/99806060/228834211-7acf84da-bddb-46fd-ae97-b6cd5b15afa6.gif" />
       <p>Sou programador desde 2022, iniciante a bordo nesse mundo da programação e desenvolvimento, sempre fui impressionado com as tecnologias desde criança, e tinha a curiosidade de como o lado digital das coisas funcionavam, aos meus 14 anos tive o primeiro contato com programação e sendo honesto, fiquei um pouco assustado e pensei que era algo muito difícil e para poucos, mas no fundo sempre tinha uma vontade de conhecer, e hoje tendo mais capacidade estou me desenvolvendo nesta área e cada vez mais curioso e com vontade de aprender :mortar_board:</p>
    </div>
   
 
-<h1><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/228958604-91169321-e94f-4736-aab3-f57d79b697cb.png"/> Linguagens e ferramentas</h1>
+<h1><img width="32px" height="32px" src="https://user-images.githubusercontent.com/99806060/228958604-91169321-e94f-4736-aab3-f57d79b697cb.png"/> Linguagens e ferramentas</h1>
 <br/>
 <h3><img width="32px" height="32px" src="https://user-images.githubusercontent.com/99806060/228958848-5361e5f9-d958-49e2-a670-b544306f039b.png"/> Linguagens, frameworks e bibliotecas</h3>
 <br/>
@@ -46,14 +46,26 @@
 
  <img src="https://user-images.githubusercontent.com/99806060/228827532-c68e82da-4312-4878-8298-d4dcdf8695f7.gif"/>
  
- <h1><img width="64px" height="46px" src="https://user-images.githubusercontent.com/99806060/229237635-a4462d08-7030-4710-a6d1-ceb4febcbfec.gif"/><span> </span>Habilidades e estudo</h1>
+ <h1><img width="32px" height="32px" src="https://user-images.githubusercontent.com/99806060/229291398-2046a391-bac0-4505-9b33-78dfb31c7f12.png"/><span> </span>Habilidades e estudo</h1>
  <img height="200px" align="right" src="https://user-images.githubusercontent.com/99806060/229238556-a0fba3ce-1526-4383-bac8-19bc668dcd13.gif"/>
+ <blockquote>
  <ul>
-  <li><strong>Front-end</strong></li>
-  <li><strong>Back-end</strong></li>
-  <li><strong>Banco de dados</strong></li>
-  <li><strong>Desenvolvimento web</strong></li>
-  <li><strong>Design UI</strong></li>
-  <li><strong>Análise e desenvolvimento de sistemas</strong></li>
+  <li>:heavy_check_mark: <strong>Nível intermediário em front-end</strong></li>
+  <li>:heavy_check_mark: <strong>Nível iniciante em back-end</strong></li>
+  <li>:heavy_check_mark: <strong>Nível básico em banco de dados</strong></li>
+  <li>:heavy_check_mark: <strong>Nível intermediário em desenvolvimento web</strong></li>
+  <li>:heavy_check_mark: <strong>Nível iniciante em design UX/UI</strong></li>
+  <li>:heavy_check_mark: <strong>Estudando análise e desenvolvimento de sistemas</strong></li>
+  <li>:heavy_check_mark: <strong>Nível básico de ingles e espanhol</strong></li>
  </ul>
- <a href=""><img width="64px" height="64px" src=""/></a>
+ </blockquote>
+ <br/>
+ <h1><img width="32px" height="32px" src="https://user-images.githubusercontent.com/99806060/229310435-38145cc6-0727-4898-bcda-c7dc3d450075.png"/> Contato e redes</h1>
+ <br/>
+ <div align="center">
+  <a href="https://wa.me/+5547991142416"><img height="24px" src="https://user-images.githubusercontent.com/99806060/229310490-1df202cb-bade-4143-b473-5df409e684a5.svg"/></a>
+  <a href="https://www.linkedin.com/in/guilherme-irgang-98279b249/"><img height="24px" src="https://user-images.githubusercontent.com/99806060/229310498-f0f363e8-aa72-4d45-b5bf-21c93608b25f.svg"/></a>
+  <a href="mailto:484gui@gmail.com"><img height="24px" src="https://user-images.githubusercontent.com/99806060/229310508-139112c3-5028-4f79-b3a3-32a73b702ba4.svg"/></a>
+  <a href="https://github.com/484Irgang"><img height="24px" src="https://user-images.githubusercontent.com/99806060/229310511-d942ec81-71ea-4b4b-b777-267488e070d5.svg"/></a>
+ </div>
+ <a href=""><img height="32px" src=""/></a>
