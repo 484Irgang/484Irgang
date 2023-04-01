@@ -68,4 +68,3 @@
   <a href="mailto:484gui@gmail.com"><img height="24px" src="https://user-images.githubusercontent.com/99806060/229310508-139112c3-5028-4f79-b3a3-32a73b702ba4.svg"/></a>
   <a href="https://github.com/484Irgang"><img height="24px" src="https://user-images.githubusercontent.com/99806060/229310511-d942ec81-71ea-4b4b-b777-267488e070d5.svg"/></a>
  </div>
- <a href=""><img height="32px" src=""/></a>
