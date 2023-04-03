@@ -65,7 +65,7 @@
  <br/>
  <div align="center">
   <a href="https://wa.me/+5547991142416"><img height="24px" src="https://user-images.githubusercontent.com/99806060/229310490-1df202cb-bade-4143-b473-5df409e684a5.svg"/></a>
-  <a href="https://www.linkedin.com/in/guilherme-irgang-98279b249/"><img height="24px" src="https://user-images.githubusercontent.com/99806060/229310498-f0f363e8-aa72-4d45-b5bf-21c93608b25f.svg"/></a>
+  <a href="https://www.linkedin.com/in/guilhermeirgang/"><img height="24px" src="https://user-images.githubusercontent.com/99806060/229310498-f0f363e8-aa72-4d45-b5bf-21c93608b25f.svg"/></a>
   <a href="mailto:484gui@gmail.com"><img height="24px" src="https://user-images.githubusercontent.com/99806060/229310508-139112c3-5028-4f79-b3a3-32a73b702ba4.svg"/></a>
   <a href="https://github.com/484Irgang"><img height="24px" src="https://user-images.githubusercontent.com/99806060/229310511-d942ec81-71ea-4b4b-b777-267488e070d5.svg"/></a>
  </div>
