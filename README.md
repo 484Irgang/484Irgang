@@ -47,6 +47,7 @@
  <img src="https://user-images.githubusercontent.com/99806060/228827532-c68e82da-4312-4878-8298-d4dcdf8695f7.gif"/>
  
  <h1><img width="32px" height="32px" src="https://user-images.githubusercontent.com/99806060/229291398-2046a391-bac0-4505-9b33-78dfb31c7f12.png"/><span> </span>Habilidades e estudo</h1>
+ <br/>
  <img height="200px" align="right" src="https://user-images.githubusercontent.com/99806060/229238556-a0fba3ce-1526-4383-bac8-19bc668dcd13.gif"/>
  <blockquote>
  <ul>
