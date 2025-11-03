@@ -1,66 +1,137 @@
-<h1 align="center">Olá meu nome é Guilherme de Lima Irgang</h1> 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Guilherme%20de%20Lima%20Irgang&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20React%20Specialist&descAlignY=55&descAlign=50" />
+</div>
 
-<h1><img width="32px" height="32px" src="https://user-images.githubusercontent.com/99806060/228958261-14f75ab1-c6d4-45c9-b4ef-564806535dd9.png"/> Apresentação</h1>
-   <div>
-      <img align="right" width="250px" src="https://user-images.githubusercontent.com/99806060/228834211-7acf84da-bddb-46fd-ae97-b6cd5b15afa6.gif" />
-      <p>Sou programador desde 2022, iniciante a bordo nesse mundo da programação e desenvolvimento, sempre fui impressionado com as tecnologias desde criança, e tinha a curiosidade de como o lado digital das coisas funcionavam, aos meus 14 anos tive o primeiro contato com programação e sendo honesto, fiquei um pouco assustado e pensei que era algo muito difícil e para poucos, mas no fundo sempre tinha uma vontade de conhecer, e hoje tendo mais capacidade estou me desenvolvendo nesta área e cada vez mais curioso e com vontade de aprender :mortar_board:</p>
-   </div>
+<div align="center">
   
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeirgang/)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5547991142416)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:484gui@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/484Irgang)
+  
+</div>
 
-<h1><img width="32px" height="32px" src="https://user-images.githubusercontent.com/99806060/228958604-91169321-e94f-4736-aab3-f57d79b697cb.png"/> Linguagens e ferramentas</h1>
 <br/>
-<h3><img width="32px" height="32px" src="https://user-images.githubusercontent.com/99806060/228958848-5361e5f9-d958-49e2-a670-b544306f039b.png"/> Linguagens, frameworks e bibliotecas</h3>
+
+## 👨‍💻 Sobre Mim
+
+Sou **Engenheiro Frontend** com **mais de 4 anos de experiência** no desenvolvimento de aplicações web e mobile, sendo **+2.5 anos no mercado profissional**. Especializado em construir interfaces de alta performance e escaláveis, com foco em experiência do usuário e arquitetura de software.
+
+Atualmente trabalho como **Engenheiro Front-end** desenvolvendo soluções robustas para o mercado imobiliário brasileiro, com destaque para o **[DWV](https://site.dwvapp.com.br/)** - a maior plataforma B2B do segmento imobiliário do Brasil, conectando +600 incorporadoras e +40 mil corretores.
+
+🎯 **Objetivo:** Trabalhar remotamente e me especializar como referência técnica em Frontend
+
+🎓 **Formação:** Análise e Desenvolvimento de Sistemas (conclusão em 2025)
+
+🌍 **Localização:** Penha, Santa Catarina - Brasil
+
 <br/>
-<blockquote>
-  <a href="https://www.w3schools.com/html/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/228959581-433a98cf-69b7-44ad-b36f-d76b602864d5.png"/></a>
-  <a href="https://www.w3schools.com/css/default.asp"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/228959747-46c25bfd-5173-4c5f-935a-3b5ad294396f.png"/></a>
-  <a href="https://www.w3schools.com/js/default.asp"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/228959801-edac36fd-beac-4055-b18a-29ffb8dd6160.png"/></a>
-  <a href="https://legacy.reactjs.org/docs/getting-started.html"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/228959852-3a761420-b517-4833-8661-0a1babf8f79d.png"/></a>
-  <a href="https://vuejs.org/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/228858307-cf18a1e8-edea-42b8-88f4-0316a32122c5.png"/></a>
-  <a href="https://jquery.com/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/228861311-a100740a-b70d-4841-a2a3-ab6a04732642.png"/></a>
-  <a href="https://www.w3schools.com/bootstrap/bootstrap_ver.asp"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/228959897-fb335beb-27ba-4662-8e4b-13916c5e60f8.svg"/></a>
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/228960683-d786e7c9-53e1-4f29-bdd6-d3704b3f6d77.png"/></a>
-  <a href="https://www.php.net/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/228960894-e4bd63d9-3c78-4334-b529-68ea689eabe6.png"/></a>
-  <a href="https://nodejs.org/en"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/228961030-f87f0664-5622-4a7c-9dd4-fdc5124c3a56.png"/></a>
-  <a href="https://www.mysql.com/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/228961155-bb492529-dd29-4956-89d4-afbd8c4439c2.png"/></a>
-</blockquote>
 
-<h3><img width="32px" height="32px" src="https://user-images.githubusercontent.com/99806060/228962333-42e29a15-fb2d-444a-b134-faadf889e382.png"/> Ferramentas de produção</h3>
+## 🚀 Projetos em Destaque
 
-<blockquote>
-  <a href="https://www.figma.com/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229147945-57425bda-bb38-4185-b873-a4df694ad941.png"/></a>
-  <a href="https://git-scm.com/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229147972-d23bc439-a7aa-4779-9175-8dd47a179b15.svg"/></a>
-  <a href="https://github.com/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229148015-f564595a-6e9f-481f-b6b3-3b8d4f815500.gif"/></a>
-  <a href="https://visualstudio.microsoft.com/pt-br/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229148115-c01dafde-e5bd-43a4-bcbe-d1e7dacea1f6.png"/></a>
-  <a href="https://code.visualstudio.com/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229148186-bb286e37-6755-40df-b448-db4206171e80.svg"/></a>
-  <a href="https://www.sublimetext.com/3"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229151147-f0357e0d-bc2d-4905-b20f-fc311f798294.png"/></a>
-  <a href="https://www.apachefriends.org/pt_br/download.html"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229151163-57129a1a-a241-4aec-bc18-0eeaadc956a4.png"/></a>
-  <a href="https://www.npmjs.com/"><img width="64px" height="64px" src="https://user-images.githubusercontent.com/99806060/229241043-3807cf27-21da-4514-abb3-9b1ac4877d89.svg"/></a>
-</blockquote>
+### 🏗️ **DWV - Dynamic Virtual World**
+Hub imobiliário completo conectando incorporadoras e corretores de imóveis em todo Brasil
+- **Stack:** React, React Native, TypeScript, Next.js
+- **Recursos:** Sistema de chat em tempo real, CRM completo, gerenciamento de propostas, integrações com APIs externas, sistema de pagamentos, feed de posts, gerenciamento de imóveis, central de acessos e controle de permissões
+- **Impacto:** +40 mil corretores ativos e +600 construtoras utilizando a plataforma diariamente
+- **Plataformas:** Web App e Mobile App (iOS/Android)
 
+### 📱 **Plataforma de Videoconferência**
+Sistema de reuniões e calls utilizando tecnologia WebRTC para comunicação em tempo real
+- **Stack:** React, WebRTC, Node.js
+- **Recursos:** Chamadas de vídeo e áudio, compartilhamento de tela, chat integrado
 
- <img src="https://user-images.githubusercontent.com/99806060/228827532-c68e82da-4312-4878-8298-d4dcdf8695f7.gif"/>
- 
- <h1><img width="32px" height="32px" src="https://user-images.githubusercontent.com/99806060/229291398-2046a391-bac0-4505-9b33-78dfb31c7f12.png"/><span> </span>Habilidades e estudo</h1>
- <br/>
- <img height="200px" align="right" src="https://user-images.githubusercontent.com/99806060/229238556-a0fba3ce-1526-4383-bac8-19bc668dcd13.gif"/>
- <blockquote>
- <ul>
-  <li>:heavy_check_mark: <strong>Nível intermediário em front-end</strong></li>
-  <li>:heavy_check_mark: <strong>Nível iniciante em back-end</strong></li>
-  <li>:heavy_check_mark: <strong>Nível básico em banco de dados</strong></li>
-  <li>:heavy_check_mark: <strong>Nível intermediário em desenvolvimento web</strong></li>
-  <li>:heavy_check_mark: <strong>Nível iniciante em design UX/UI</strong></li>
-  <li>:heavy_check_mark: <strong>Estudando análise e desenvolvimento de sistemas</strong></li>
-  <li>:heavy_check_mark: <strong>Nível básico de ingles e espanhol</strong></li>
- </ul>
- </blockquote>
- <br/>
- <h1><img width="32px" height="32px" src="https://user-images.githubusercontent.com/99806060/229310435-38145cc6-0727-4898-bcda-c7dc3d450075.png"/> Contato e redes</h1>
- <br/>
- <div align="center">
-  <a href="https://wa.me/+5547991142416"><img height="24px" src="https://user-images.githubusercontent.com/99806060/229310490-1df202cb-bade-4143-b473-5df409e684a5.svg"/></a>
-  <a href="https://www.linkedin.com/in/guilhermeirgang/"><img height="24px" src="https://user-images.githubusercontent.com/99806060/229310498-f0f363e8-aa72-4d45-b5bf-21c93608b25f.svg"/></a>
-  <a href="mailto:484gui@gmail.com"><img height="24px" src="https://user-images.githubusercontent.com/99806060/229310508-139112c3-5028-4f79-b3a3-32a73b702ba4.svg"/></a>
-  <a href="https://github.com/484Irgang"><img height="24px" src="https://user-images.githubusercontent.com/99806060/229310511-d942ec81-71ea-4b4b-b777-267488e070d5.svg"/></a>
- </div>
+### 🎨 **Landing Pages de Alto Impacto**
+Diversos projetos de landing pages estáticas e dinâmicas focadas em conversão
+- **Stack:** React, Next.js, TypeScript, CSS-in-JS
+
+<br/>
+
+## 🛠️ Stack Tecnológica
+
+### Frontend Core
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Styling & UI
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Mobile Development
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<br/>
+
+## 💡 Áreas de Interesse & Especialização
+
+```typescript
+const expertise = {
+  architecture: ['Clean Architecture', 'Design Patterns', 'Component Design'],
+  softSkills: ['Remote Work', 'Team Collaboration', 'Problem Solving'],
+  learning: ['System Design', 'Performance Optimization', 'AI Prompt Engineering'],
+  languages: {
+    portuguese: 'Native',
+    english: 'Intermediate',
+    spanish: 'Basic'
+  }
+}
+```
+
+<br/>
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=484Irgang&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=484Irgang&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=484Irgang&theme=radical" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+## 🎯 Contribuições
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=484Irgang&theme=react-dark&hide_border=true&area=true" width="100%">
+</div>
+
+<br/>
+
+## 📫 Vamos Conectar?
+
+Estou sempre aberto a discutir novos projetos, oportunidades de trabalho remoto e colaborações em projetos interessantes. Sinta-se à vontade para entrar em contato!
+
+<div align="center">
+  
+  **"Transformando ideias em experiências digitais excepcionais"**
+  
+  ⭐️ Se gostou do meu perfil, deixe uma estrela nos meus repositórios!
+  
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+</div>
