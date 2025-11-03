@@ -23,13 +23,13 @@ Atualmente trabalho como **Engenheiro Front-end** desenvolvendo soluções robus
 
 🎓 **Formação:** Análise e Desenvolvimento de Sistemas (conclusão em 2025)
 
-🌍 **Localização:** Penha, Santa Catarina - Brasil
+🌍 **Localização:** Itapema, Santa Catarina - Brasil
 
 <br/>
 
 ## 🚀 Projetos em Destaque
 
-### 🏗️ **DWV - Dynamic Virtual World**
+### 🏗️ **DWV**
 Hub imobiliário completo conectando incorporadoras e corretores de imóveis em todo Brasil
 - **Stack:** React, React Native, TypeScript, Next.js
 - **Recursos:** Sistema de chat em tempo real, CRM completo, gerenciamento de propostas, integrações com APIs externas, sistema de pagamentos, feed de posts, gerenciamento de imóveis, central de acessos e controle de permissões
