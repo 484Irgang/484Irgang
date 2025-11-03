@@ -1,9 +1,4 @@
-<h1 align="center">Olá meu nome é Guilherme de Lima Irgang</h1>
-
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=484Irgang&show_icons=true&theme=highcontrast"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=484Irgang&theme=highcontrast&hide_progress=true&lans_count=10"/>
-</div>    
+<h1 align="center">Olá meu nome é Guilherme de Lima Irgang</h1> 
 
 <h1><img width="32px" height="32px" src="https://user-images.githubusercontent.com/99806060/228958261-14f75ab1-c6d4-45c9-b4ef-564806535dd9.png"/> Apresentação</h1>
    <div>
